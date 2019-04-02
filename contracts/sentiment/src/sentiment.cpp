@@ -1,9 +1,8 @@
 /**
- * 
+ * Sentiment Token implementation.
  * 
  * @author Craig Branscom
  * @contract sentiment
- * @copyright defined in LICENSE.txt
  */
 
 #include "../include/sentiment.hpp"

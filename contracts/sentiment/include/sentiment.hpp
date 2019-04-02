@@ -1,9 +1,8 @@
 /**
- * Grassroots is a crowdfunding development platform for EOSIO software.
+ * Sentiment Token interface.
  * 
  * @author Craig Branscom
- * @contract grassroots
- * @copyright defined in LICENSE.txt
+ * @contract sentiment
  */
 
 #pragma once

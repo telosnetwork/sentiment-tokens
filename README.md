@@ -1,2 +1,1 @@
-# sentiment-tokens
-Sentiment Token
+# Sentiment Tokens
