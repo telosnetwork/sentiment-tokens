@@ -1,8 +1,8 @@
 #! /bin/bash
 
-if [[ "$1" == "grassroots" ]]; then
+if [[ "$1" == "sentiment" ]]; then
     contract=sentiment
-    account=sentimenttls
+    account=sentimenttkn
 else
     echo "need contract"
     exit 0
