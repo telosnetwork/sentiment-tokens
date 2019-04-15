@@ -24,7 +24,7 @@ public:
 
     ~sentiment();
 
-    const name CONTRACT_ACCOUNT = name("sentimenttkn"); //TODO: replace with actual contract account
+    const name CONTRACT_ACCOUNT = name("sentimenttkn"); //TODO: replace with mainnet contract account
     const symbol LIKE_SYM = symbol("LIKE", 0);
     const symbol DISLIKE_SYM = symbol("DISLIKE", 0);
 
